@@ -4,7 +4,7 @@ Go implementations of questions from ["Cracking the Coding Interview"](http://ww
 
 Implementations are arranged under `/pkg/<chapter_name>/<question_headline>`.
 
-The implementations are my own and my differ from those offered in the book.
+The implementations are my own and may differ from those offered in the book.
 
 ## Running the tests
 
